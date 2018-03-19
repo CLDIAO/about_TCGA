@@ -1,4 +1,6 @@
 # 1.	少量数据的下载：
+
+![image](https://github.com/CLDIAO/about_TCGA/edit/master/about_TCGA/photos/0319001.png)
  
 在repository页面检索右下方框框内的数据可以加入购物车。添加完成后，选择右上角购物车图标
  
