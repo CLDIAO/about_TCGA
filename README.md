@@ -1,2 +1,2 @@
 # about_TCGA
-some protocol fot TCGA data analysis
+some protocols fot TCGA data analysis
