@@ -33,7 +33,9 @@ Win +R – cmd ，输入
 
 `gdc-client download –m D:/GDC/gdc_manifest_20180319_113132.txt`
 
-# 3.	R包下载-RTCGAToolbox
+# 3.	R包下载-
+
+## RTCGAToolbox
 
 #try http:// if https:// URLs are not supported
  
@@ -61,7 +63,7 @@ Win +R – cmd ，输入
 `getFirehoseData(dataset = "COAD", runDate = "20160128", RNASeqGene = TRUE, clinical = TRUE, mRNAArray = TRUE)`
 #可查看使用帮助
 
-
+## R包cgdsr
 
 
 
