@@ -33,6 +33,16 @@ Win +R – cmd ，输入
 
 `gdc-client download –m D:/GDC/gdc_manifest_20180319_113132.txt`
 
+# 4.生信人小工具下载
+
+参考：https://www.shengxin.ren/article/209
+
+## ①双击选择TCGA数据集进行检索可下载资源
+
+## ②选择下载资源
+
+## ③点击下载并选择下载目录
+
 # 3.	R包下载-
 
 ## RTCGAToolbox
