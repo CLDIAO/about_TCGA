@@ -27,6 +27,8 @@ p=<0.05,则生存曲线不同；p>0.05，生存曲线差别无统计学意义。
 生存曲线是否有显著性差异。
 
 
+# 方法一：生信人小工具(https://www.shengxin.ren/article/209)
+
 
 
 ![](http://www.bio-info-trainee.com/1313.html)
