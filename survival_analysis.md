@@ -49,7 +49,9 @@ p=<0.05,则生存曲线不同；p>0.05，生存曲线差别无统计学意义。
 
 使用数据归一化工具，将FPKM数据转换为TPM 
 
-![TPM/FPKM/RPKM](https://statquest.org/2015/07/09/rpkm-fpkm-and-tpm-clearly-explained/)
+[STATQUEST-TPM/FPKM/RPKM](https://statquest.org/2015/07/09/rpkm-fpkm-and-tpm-clearly-explained/)
+
+[菜鸟团-TPM/FPKM/RPKM](http://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247485311&idx=1&sn=5bf43f27567b3ab679affe55a4e8e424&chksm=fa46c242cd314b541e02aa49dee1172cf4c59817720338db60718475a55be497358aad00a033&mpshare=1&scene=1&srcid=0603UgHm35LJc7rzG9NBq7rq#rd)
 
 ## 6 ID转换
 
