@@ -60,7 +60,7 @@ p=<0.05,则生存曲线不同；p>0.05，生存曲线差别无统计学意义。
 
 ## 7 下载clinical数据
 
-下载资源选择clinical，下载完成后，选择合并文件。此数据集包含156种随访信息，我们需要其中的"bcr_patient_barcode", "days_to_death", "days_to_last_followup"
+下载资源选择clinical，下载完成后，选择合并文件。此数据集包含156种随访信息，我们需要其中的"bcr_patient_barcode", "days_to_death", "days_to_last_followup"，"vital_status".
 
 ## 8 
 
