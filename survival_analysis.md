@@ -47,15 +47,18 @@ p=<0.05,则生存曲线不同；p>0.05，生存曲线差别无统计学意义。
 
 ## 5 数据归一化
 
-使用数据归一化工具，将FPKM数据转换为TPM
+使用数据归一化工具，将FPKM数据转换为TPM 
+
+![TPM/FPKM/RPKM](https://statquest.org/2015/07/09/rpkm-fpkm-and-tpm-clearly-explained/)
 
 ## 6 ID转换
 
-使用便捷ID转换器，转换得到编码基因表达矩阵
+使用便捷ID转换器，转换得到编码基因表达矩阵：选择需转换文件即4中得到的matrix；文件包含表头；多对一处理选择；转换方式；
+转换导出。可以查找目的基因对应样本的表达量
 
 ## 7 下载clinical数据
 
-下载资源选择clinical，下载完成后，选择合并文件。此数据集包含156种随访信息，我们需要其中的* "bcr_patient_barcode" * , "days_to_death", "days_to_last_followup"
+下载资源选择clinical，下载完成后，选择合并文件。此数据集包含156种随访信息，我们需要其中的"bcr_patient_barcode", "days_to_death", "days_to_last_followup"
 
 ## 8 
 
